@@ -1,0 +1,11 @@
+﻿  Main.cpp
+c:\users\кирилл\desktop\c++\rational numbers\rational number\rational number.h(24): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  c:\users\кирилл\desktop\c++\rational numbers\rational number\rational number.h(23): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\кирилл\desktop\c++\rational numbers\rational number\rational number.h(16): note: выполняется компиляция ссылки на экземпляр шаблон функции "double RATIONAL_NUMBERS::RatNum<double>::NOD(T,T) const"
+          with
+          [
+              T=double
+          ]
+  c:\users\кирилл\desktop\c++\rational numbers\rational number\main.cpp(11): note: выполняется компиляция ссылки на экземпляр шаблон класс "RATIONAL_NUMBERS::RatNum<double>"
+c:\users\кирилл\desktop\c++\rational numbers\rational number\rational number.h(25): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Rational number.vcxproj -> C:\Users\Кирилл\Desktop\C++\Rational Numbers\Debug\Rational number.exe
