@@ -1,0 +1,6 @@
+Debug/
+Rational number/Debug/
+
+*.sln
+*.vcxproj
+*.filters
